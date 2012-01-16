@@ -1,7 +1,7 @@
 #summary HOTween update history.
 #labels Featured
 
-= v0.8.001 =
+<h2>v0.8.001</h2>
 First Google Code release
-=== Changes ===
+<h4>Changes</h4>
   * HOTween main namespace is now Holoville.HOTween instead than Holoville.Tweening.
