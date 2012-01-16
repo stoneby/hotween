@@ -1,4 +1,4 @@
-#summary HOTween update history.
+#summary HOTween update history
 #labels Featured
 
 == v0.8.001 ==
