@@ -10,3 +10,16 @@
 First Google Code release
 ==== Changes ====
   * HOTween main namespace is now Holoville.HOTween instead than Holoville.Tweening.
+
+== v0.7.301 ==
+==== Bugfixes ====
+  * Fixed delay bug (if delay was longer than duration, the tween would not start).
+
+== v0.7.300 ==
+==== Changes ====
+  * *Warning!* EaseType enum values now start with an uppercase letter (due to the fact that EaseType is now a true enum, and relies on another class to store the ease functions). This means for example EaseType.EaseOutQuad instead than EaseType.easeOutQuad.
+==== Bugfixes ====
+  * Changing HOTween's timeScale doesn't affect eventual tween delays anymore.
+
+== v0.7.202 ==
+First release.
