@@ -1,6 +1,11 @@
 #summary HOTween update history
 #labels Featured
 
+== v0.8.002 ==
+==== Bugfixes ====
+  * Fixed PlugVector3Path OrientToPath() orienting on incorrect axis.
+  * Fixed PlugVector3Path OrientToPath() flipping orientation on certain conditions issue.
+
 == v0.8.001 ==
 First Google Code release
 ==== Changes ====
