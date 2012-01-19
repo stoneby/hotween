@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v0.8.004 ==
+==== Bugfixes ====
+  * Corrected bug where default loopType wasn't changed when changing HOTween.defLoopType value.
+
 == v0.8.002 ==
 ==== Bugfixes ====
   * Fixed PlugVector3Path OrientToPath orienting on incorrect axis.
