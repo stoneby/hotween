@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v0.8.005 (beta) ==
+==== Bugfixes ====
+  * Fixed iOS compatibility (hopefully, still needs to be tested on an actual iPhone).
+
 == v0.8.004 ==
 ==== Bugfixes ====
   * Corrected bug where default loopType wasn't changed when changing HOTween.defLoopType value.
