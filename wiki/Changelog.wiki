@@ -1,9 +1,9 @@
 #summary HOTween update history
 #labels Featured
 
-== v0.8.005 (beta) ==
+== v0.8.005 ==
 ==== Bugfixes ====
-  * Fixed iOS compatibility (hopefully, still needs to be tested on an actual iPhone).
+  * Fixed iOS compatibility.
 
 == v0.8.004 ==
 ==== Bugfixes ====
