@@ -1,6 +1,12 @@
 #summary HOTween update history
 #labels Featured
 
+== v0.8.006 ==
+==== New Features ====
+  * Added *ConstantSpeed* parameter to *PlugVector3Path*, which animates with constant speed along the path.
+  * Added *SpeedBased* parameter to *TweenParms*, to allow speed-based instead than time-based tweens (when using this parameter, duration is interpreted as speedxseconds).
+  * String properties can now be animated using defaults (without the need to add PlugString).
+
 == v0.8.005 ==
 ==== Bugfixes ====
   * Fixed iOS compatibility.
