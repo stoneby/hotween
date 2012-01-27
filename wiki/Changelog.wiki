@@ -1,6 +1,13 @@
 #summary HOTween update history
 #labels Featured
 
+== v0.8.007 ==
+=== Changes ===
+  * Sequences are now automatically paused at startup (you will need to call mySequence.Play() to start them).
+  * *ConstantSpeed* parameter removed from *PlugVector3Path*: now paths use constant speed by default.
+=== Optimizations ===
+  * Optimized drawing of path gizmos.
+
 == v0.8.006 ==
 ==== New Features ====
   * Added *ConstantSpeed* parameter to *PlugVector3Path*, which animates with constant speed along the path.
