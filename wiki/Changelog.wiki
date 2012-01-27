@@ -2,10 +2,10 @@
 #labels Featured
 
 == v0.8.007 ==
-=== Changes ===
+==== Changes ====
   * Sequences are now automatically paused at startup (you will need to call mySequence.Play() to start them).
   * *ConstantSpeed* parameter removed from *PlugVector3Path*: now paths use constant speed by default.
-=== Optimizations ===
+==== Optimizations ====
   * Optimized drawing of path gizmos.
 
 == v0.8.006 ==
