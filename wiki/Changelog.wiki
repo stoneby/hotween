@@ -4,8 +4,8 @@
 == v0.8.010 ==
 ==== New Features ====
 More parameters can now be changed while playing, including:
-  * IHOTweenComponent.timeScale, .loop, .loopType.
-  * Tweener.easeType.
+  * *IHOTweenComponent*(Tweener or Sequence).timeScale, .loop, .loopType.
+  * *Tweener*.easeType.
 
 == v0.8.007 ==
 ==== Changes ====
