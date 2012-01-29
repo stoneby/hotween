@@ -1,6 +1,12 @@
 #summary HOTween update history
 #labels Featured
 
+== v0.8.010 ==
+==== New Features ====
+More parameters can now be changed while playing, including:
+  * IHOTweenComponent.timeScale, .loop, .loopType.
+  * Tweener.easeType.
+
 == v0.8.007 ==
 ==== Changes ====
   * Sequences are now automatically paused at startup (you will need to call mySequence.Play() to start them).
