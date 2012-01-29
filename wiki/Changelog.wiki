@@ -1,7 +1,7 @@
 #summary HOTween update history
 #labels Featured
 
-== v0.8.010 ==
+== v0.8.011 ==
 ==== New Features ====
 More parameters can now be changed while playing, including:
   * *IHOTweenComponent*[_Tweener or Sequence_].timeScale, .loops, .loopType.
