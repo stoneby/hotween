@@ -1,6 +1,11 @@
 #summary HOTween update history
 #labels Featured
 
+== v0.8.015 ==
+==== New Features ====
+  * Added *HOTween.From*.
+  * Now *PlugString* checks for null values and replaces them with "".
+
 == v0.8.011 ==
 ==== New Features ====
 More parameters can now be changed while playing, including:
