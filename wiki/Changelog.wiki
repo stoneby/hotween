@@ -3,7 +3,7 @@
 
 == v0.8.016 ==
 ==== New Features ====
-  * Added *PlugRect* plugin (thanks to Romain Giraud).
+  * Added *PlugRect* plugin (thanks to Romain Giraud), which is now used by default with Rect properties.
   * Added lookAhead option in *PlugVector3Path* *OrientToPath* parameter.
 
 == v0.8.015 ==
