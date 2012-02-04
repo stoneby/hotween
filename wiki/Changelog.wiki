@@ -1,6 +1,11 @@
 #summary HOTween update history
 #labels Featured
 
+== v0.8.016 ==
+==== New Features ====
+  * Added *PlugRect* plugin (thanks to Romain Giraud).
+  * Added lookAhead option in *PlugVector3Path* *OrientToPath* parameter.
+
 == v0.8.015 ==
 ==== New Features ====
   * Added *HOTween.From*.
