@@ -3,7 +3,7 @@
 
 == v0.8.017 ==
 ==== Bugfixes ====
-  * Removed leftover Debug.Log message from PlugVector3Path.
+  * Removed leftover Debug.Log message from *PlugVector3Path*.
 
 == v0.8.016 ==
 ==== New Features ====
