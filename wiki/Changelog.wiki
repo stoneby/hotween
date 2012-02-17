@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v0.8.101 ==
+==== New Features ====
+  * Added *Incremental* LoopType (as of now works only with Tweeners and not with Sequences). It creates a loop that, instead than rewinding or restarting at each cycle, increments the values each time (like 0 to 50, 50 to 100, 100 to 150, and so on). It works with all ease types and plugin types (even PlugVector3Path and strings).
+
 == v0.8.019 ==
 ==== New Features ====
   * Added `IntId()` method parameter to TweenParms and SequenceParms. It works like `Id()`, but wants an int instead of a string, which makes it faster when you perform grouped ID operations, like `HOTween.Pause( myId )`.
