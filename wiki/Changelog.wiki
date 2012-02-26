@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v0.8.110 ==
+==== New Features ====
+  * Added *Incremental* LoopType also to *Sequences*. Please note that this is an experimental option: it works perfectly with simple Sequences, but you should check that your animation works as expected with more complex ones.
+
 == v0.8.102 ==
 ==== Bugfixes ====
   * Fixed a NullReferenceException which could happen when killing a tween during an update.
