@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v0.8.112 ==
+==== Bugfixes ====
+  * Removed leftover Debug.Log message from *Sequence*.
+
 == v0.8.111 ==
 ==== Bugfixes ====
   * Fixed bug where appending an interval at the start of a Sequence didn't work.
