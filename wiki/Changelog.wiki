@@ -4,10 +4,10 @@
 == v0.8.120 ==
 ==== New features ====
   * Added *enabled* property for Tweeners and Sequences (and IHOTweenComponent and ABSTweenComponent).
-  * Added TweenVar, a class you can instantiate to manually control a float value as if it was being tweened.
+  * Added *TweenVar*, a class you can instantiate to manually control a float value as if it was being tweened.
 
 ==== Bugfixes ====
-  * OnUpdate callbacks now work even for nested Tweeners and Sequences.
+  * *OnUpdate* callbacks now work even for nested Tweeners and Sequences.
 
 == v0.8.112 ==
 ==== Bugfixes ====
