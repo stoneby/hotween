@@ -1,6 +1,13 @@
 #summary HOTween update history
 #labels Featured
 
+== v0.8.123 ==
+==== New features ====
+  * Added *GetPointOnPath* method to *Tweener*.
+
+==== Bugfixes ====
+  * Possibly fixed iOS error when tweening ints without directly using PlugInt (though I still didn't have a feedback of its verification).
+
 == v0.8.121 ==
 ==== New features ====
   * Added *enabled* property for Tweeners and Sequences (and IHOTweenComponent and ABSTweenComponent).
