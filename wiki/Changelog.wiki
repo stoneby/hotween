@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v0.8.124 ==
+==== Bugfixes====
+  * Should have definitely fixed iOS error when tweening ints without directly using PlugInt.
+
 == v0.8.123 ==
 ==== New features ====
   * Added *GetPointOnPath* method to *Tweener*.
