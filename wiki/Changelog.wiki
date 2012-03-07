@@ -1,6 +1,11 @@
 #summary HOTween update history
 #labels Featured
 
+== v0.8.130 ==
+==== New features ====
+  * Added *WaitForCompletion* coroutine to Tweeners and Sequences. Can be used inside a coroutine to pause it until the tween is complete. Example:
+    * yield return StartCoroutine( myTweenComponent.WaitForCompletion() );
+
 == v0.8.125 ==
 ==== Bugfixes ====
   * Fixed bug with *LoopType.Incremental* adding an additional increment when the loop completed.
