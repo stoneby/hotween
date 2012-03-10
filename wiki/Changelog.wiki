@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v0.8.132 ==
+==== Bugfixes ====
+  * Fixed PlugVector3Path OrientToPath bug introduced by Tweener.GetPointOnPath.
+
 == v0.8.131 ==
 ==== Bugfixes ====
   * Fixed Sequence Append/Prepend not working correctly with speed-based tweens.
