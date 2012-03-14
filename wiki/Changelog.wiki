@@ -3,7 +3,7 @@
 
 == v0.8.140 ==
 ==== New features ====
-  * Added permanent HOTween mode, via *HOTween.Init(true)*. This will set HOTween not to be destroyed when all tweens are killed.
+  * Added permanent HOTween mode, via *HOTween.Init(true)*. This will set HOTween not to be destroyed when all tweens are killed, thus reducing memory allocation and garbage collection.
   * Now HOTween gameObject is renamed to show total number of tweens only while inside the Editor.
 
 == v0.8.132 ==
