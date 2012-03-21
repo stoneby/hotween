@@ -3,7 +3,7 @@
 
 == v0.8.141 ==
 ==== New features ====
-  * Added *renameInstanceToCountTweens* parameter to HOTween.Init() (it prevents HOTween to rename it's gameObject in order to show currently running tweens, even while in the Editor).
+  * Added *renameInstanceToCountTweens* parameter to HOTween.Init() (it prevents HOTween to rename its gameObject in order to show currently running tweens, even while in the Editor).
   * Added *PlayForward* and *PlayBackwards* methods to HOTween, IHOTweenComponent, ABSTweenComponent, Tweener and Sequence.
 
 == v0.8.140 ==
