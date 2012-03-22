@@ -1,6 +1,13 @@
 #summary HOTween update history
 #labels Featured
 
+== v0.8.142 ==
+==== New features ====
+  * Added *OnRewinded* callback.
+
+==== Bugfixes ====
+  * Fixed bug where *OnUpdate* wasn't called when calling *Rewind*.
+
 == v0.8.141 ==
 ==== New features ====
   * Added *renameInstanceToCountTweens* parameter to HOTween.Init() (it prevents HOTween to rename its gameObject in order to show currently running tweens, even while in the Editor).
