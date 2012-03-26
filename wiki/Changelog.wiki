@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v0.9.001 ==
+==== New features ====
+  * Implemented *OverwriteManager* (you have to call `HOTween.EnableOverwriteManager()` to enable it).
+
 == v0.8.142 ==
 ==== New features ====
   * Added *OnRewinded* callback.
