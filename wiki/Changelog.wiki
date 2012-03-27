@@ -2,6 +2,13 @@
 #labels Featured
 
 == v0.9.001 ==
+==== Optimizations ====
+  * Various optimizations (mainly to PlugVector3Path system) thanks to *stfx*.
+
+==== Bugfixes ====
+  * Fixed bug with OverwriteManager erroneously overwriting tweens in case Restart was called.
+
+== v0.9.001 ==
 ==== New features ====
   * Implemented *OverwriteManager* (you have to call `HOTween.EnableOverwriteManager()` to enable it).
   * Added the *isSequenced* property to Tweeners and Sequences, which returns TRUE if a Tweener/Sequence is part of another Sequence.
