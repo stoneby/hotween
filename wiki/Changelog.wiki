@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v0.9.003 ==
+==== Bugfixes ====
+  * Fixed bug in HOTween.PlayBackwards/PlayForward methods.
+
 == v0.9.002 ==
 ==== Optimizations ====
   * Various optimizations (mainly to PlugVector3Path system) thanks to *stfx*.
