@@ -1,7 +1,7 @@
 #summary HOTween update history
 #labels Featured
 
-== v0.9.003 ==
+== v0.9.004 ==
 ==== New features ====
   * Added Init parameter which allows to completely disable the OverwriteManager.
 ==== Optimizations ====
