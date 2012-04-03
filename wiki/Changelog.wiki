@@ -2,6 +2,14 @@
 #labels Featured
 
 == v0.9.003 ==
+==== New features ====
+  * Added Init parameter which allows to completely disable the OverwriteManager.
+==== Optimizations ====
+  * Various code optimizations and performance improvements by stfx.
+==== Bugfixes ====
+  * Fixed bug in *PlugVector3Path*, where going to the end of a non-closed path would set the eventual transform orientation incorrectly.
+
+== v0.9.003 ==
 ==== Bugfixes ====
   * Fixed bug in HOTween.PlayBackwards/PlayForward methods.
 
