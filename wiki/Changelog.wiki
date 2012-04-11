@@ -1,9 +1,13 @@
 #summary HOTween update history
 #labels Featured
 
+== v0.9.005 ==
+==== Bugfixes ====
+  * Fixed PlugInt bug introduced in previous release.
+
 == v0.9.004 ==
 ==== New features ====
-  * Added Init parameter which allows to completely disable the OverwriteManager.
+  * Added Init parameter which allows to activate the OverwriteManager, which will otherwise stay completely deactivated (and will ignore any HOTween.EnableOverwriteManager calls).
 ==== Optimizations ====
   * Various code optimizations and performance improvements by stfx.
 ==== Bugfixes ====
