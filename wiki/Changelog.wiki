@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v0.9.007 ==
+==== New features ====
+  * Sequences can now be created without parameters.
+
 == v0.9.006 ==
 ==== Bugfixes ====
   * Fixed bug which could sometimes happen when getting values on iOS (mainly a monotouch bug, but it's fixed now).
