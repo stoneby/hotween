@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v0.9.008 ==
+==== Bugfixes ====
+  * "From" tweens now jump to starting position immediately, even if delayed.
+
 == v0.9.007 ==
 ==== New features ====
   * Sequences can now be created without parameters.
