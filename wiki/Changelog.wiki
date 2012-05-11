@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.001 ==
+==== New features ====
+  * Tweens can now have 0 duration (meaning they will be completed immediately, as soon as they start).
+
 == v0.9.008 ==
 ==== Bugfixes ====
   * "From" tweens now jump to starting position immediately, even if delayed.
