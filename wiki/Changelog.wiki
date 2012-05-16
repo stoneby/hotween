@@ -3,7 +3,7 @@
 
 == v1.1.002 ==
 ==== Bugfixes ====
-  * Fixed OverwriteManager bug (identical plugins inside the same Sequence were overwritten if calling GoTo).
+  * Fixed OverwriteManager bug (identical plugins inside the same Sequence were sometimes overwritten if calling GoTo).
 
 == v1.1.001 ==
 ==== New features ====
