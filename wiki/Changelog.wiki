@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.002 ==
+==== Bugfixes ====
+  * Fixed OverwriteManager bug (identical plugins inside the same Sequence were overwritten if calling GoTo).
+
 == v1.1.001 ==
 ==== New features ====
   * Tweens can now have 0 duration (meaning they will be completed immediately, as soon as they start).
