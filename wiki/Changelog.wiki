@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.003 ==
+==== Bugfixes ====
+  * Fixed PlugRect bug (y value was animated incorrectly).
+
 == v1.1.002 ==
 ==== Bugfixes ====
   * Fixed OverwriteManager bug (identical plugins inside the same Sequence were sometimes overwritten if calling GoTo).
