@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.004 ==
+==== Bugfixes ====
+  * Fixed 0 duration tweens not completing correctly (and thus not dispatching OnComplete event).
+
 == v1.1.003 ==
 ==== Bugfixes ====
   * Fixed PlugRect bug (y value was animated incorrectly).
