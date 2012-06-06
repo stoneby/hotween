@@ -1,6 +1,11 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.005 ==
+==== Bigfixes ====
+  * Fixed bug where PlugQuaternion wasn't using "shortest" available rotation.
+  * *HOTweenMicro only:* fixed HOTweenMicro not being compiled with correct symbols (MICRO compilation symbol was missing - bug introduced when moving from MonoDevelop to Visual Studio), and thus not working on iOS with max stripping level.
+
 == v1.1.004 ==
 ==== Bugfixes ====
   * Fixed 0 duration tweens not completing correctly (and thus not dispatching OnComplete event).
