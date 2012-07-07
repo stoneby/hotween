@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.007 ==
+==== New features ====
+  * Implemented *HOTweenInspector*. Now, when in the Editor, clicking on HOTween's instance will show a series of debug informations in Unity's Inspector.
+
 == v1.1.006 ==
 ==== Bugfixes ====
   * Fixed PlugVector3Path bug (determining if starting position was identical to first waypoint could give incorrect results, due to floating point imprecision).
