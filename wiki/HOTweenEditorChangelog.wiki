@@ -1,0 +1,10 @@
+#summary HOTween Visual Editor update history
+#labels Featured
+
+== v1.0.001 ==
+Fully compatible with tweens created with previous versions of the Visual Editor.
+==== New features ====
+  * Implemented *HOTweenComponent*, a component which can be directly dragged on a GameObject to tween it or its Components.
+  * Added Icons for HOTweenComponent and HOTweenManager.
+  * Now HOTweenManager and HOTweenComponent are not shown as available targets to tween.
+  * Various optimizations.
