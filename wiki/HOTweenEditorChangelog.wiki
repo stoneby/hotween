@@ -1,6 +1,10 @@
 #summary HOTween Visual Editor update history
 #labels Featured
 
+== v1.0.002 ==
+==== Bugfixes ====
+  * Fixed "Cannot implicitly convert type `Holoville.HOTween.Tweener' to `Tweener'" error.
+
 == v1.0.001 ==
 Fully compatible with tweens created with previous versions of the Visual Editor.
 ==== New features ====
