@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.200 ==
+==== New features ====
+  * Tweens that concern Transforms are now faster on all platforms, and WAY faster on iOS/Micro.
+
 == v1.1.102 ==
 ==== New features ====
   * Added partial path methods (myTweener.UsePartialPath, myTweener.ResetPath).
