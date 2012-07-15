@@ -1,9 +1,9 @@
 #summary HOTween update history
 #labels Featured
 
-== v1.1.200 ==
+== v1.1.201 ==
 ==== New features ====
-  * Tweens that concern Transforms are now faster on all platforms, and WAY faster on iOS/Micro.
+  * Tweens that concern Transforms (position/localPosition/rotation/localRotation/localScale) are now faster on all platforms, and WAY faster on iOS/Micro.
 
 == v1.1.102 ==
 ==== New features ====
