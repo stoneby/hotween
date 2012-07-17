@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.202 ==
+==== Bugfixes ====
+  * Fixed bug introduced in v1.1.201, where animating a Transform property not included in the new speed tweens wasn't working
+
 == v1.1.201 ==
 ==== New features ====
   * Tweens that concern Transforms (position/localPosition/rotation/localRotation/localScale) are now faster on all platforms, and WAY faster on iOS/Micro.
