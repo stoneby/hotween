@@ -1,6 +1,11 @@
 #summary HOTween Visual Editor update history
 #labels Featured
 
+== v1.0.010 ==
+==== New features ====
+  * Implemented button that allows to duplicate full tweens and single property tweens (next to the delete - x - button).
+  * Added full undo options.
+
 == v1.0.002 ==
 ==== Bugfixes ====
   * Fixed "Cannot implicitly convert type `Holoville.HOTween.Tweener' to `Tweener'" error.
