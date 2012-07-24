@@ -5,7 +5,7 @@
 ==== New features ====
   * Added *HOTween.GetTweensById* static method
   * Added tween ID to HOTween Inspector debug information
-  * Implemented lockRotationAxis parameter for *PlugVector3Path* OrientToPath method-parameter
+  * Implemented *lockRotationAxis* parameter for *PlugVector3Path OrientToPath* method-parameter
   * Added *LockPosition* method-parameter to *PlugVector3Path*
 ==== Bugfixes ====
   * OnStart callbacks are now called in the correct order even when inside nested sequences
