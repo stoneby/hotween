@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.310 ==
+==== New features ====
+  * Added *ApplyCallback* method to IHOTweenComponent and ABSTweenComponent
+
 == v1.1.301 ==
 ==== New features ====
   * Added *HOTween.GetTweensById* static method
