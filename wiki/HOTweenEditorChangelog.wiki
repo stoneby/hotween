@@ -1,6 +1,10 @@
 #summary HOTween Visual Editor update history
 #labels Featured
 
+== v1.0.020 ==
+==== Changes ====
+  * Now HOTweenManager creates the tweens *during Awake* instead than during Start, so if you use *HOTween.GetTweensById* during a Start method you will find them all
+
 == v1.0.010 ==
 ==== New features ====
   * Implemented button that allows to duplicate full tweens and single property tweens (next to the delete - x - button).
