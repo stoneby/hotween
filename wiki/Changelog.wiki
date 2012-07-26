@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.311 ==
+==== Bugfixes ====
+  * Fixed *OverwriteManager throwing error* when more than one tween was overwritten at the same time
+
 == v1.1.310 ==
 ==== New features ====
   * Added *ApplyCallback* method to IHOTweenComponent and ABSTweenComponent
