@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.320 ==
+==== New features ====
+  * Added *ResetAndChangeParms* method to Tweeners, which allows to change a Tweener (while keeping its target) without creating a new one
+
 == v1.1.311 ==
 ==== Bugfixes ====
   * Fixed *OverwriteManager throwing error* when more than one tween was overwritten at the same time
