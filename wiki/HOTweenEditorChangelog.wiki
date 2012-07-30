@@ -1,6 +1,16 @@
 #summary HOTween Visual Editor update history
 #labels Featured
 
+== v1.0.030 ==
+==== New Features ====
+  * Added eventual id to tween description (next to tween target) for better usability
+  * Added duplicate tween option to HOTweenComponent
+  * HOTweenComponent now stores a list of the Tweeners it generated (*generatedTweeners*) until it's destroyed
+  * HOTweenManager component is now destroyed after initialization
+  * Optimized destroy of HOTweenComponent
+==== Changes ====
+  * HOTweenComponent now creates tweens on Awake instead than on Start
+
 == v1.0.020 ==
 ==== Changes ====
   * Now HOTweenManager creates the tweens *during Awake* instead than during Start, so if you use *HOTween.GetTweensById* during a Start method you will find them all
