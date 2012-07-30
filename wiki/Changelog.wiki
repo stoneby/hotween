@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.330 ==
+==== New features ====
+  * Added *HOTween.GetTweenersByTarget* method, that returns all the Tweeners (not Sequences, since Sequences have no target) whose target is the given one.
+
 == v1.1.320 ==
 ==== New features ====
   * Added *ResetAndChangeParms* method to Tweeners, which allows to change a Tweener (while keeping its target) without creating a new one
