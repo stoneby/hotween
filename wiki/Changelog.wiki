@@ -1,6 +1,15 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.335 ==
+==== New features ====
+  * Greatly optimized partial paths
+  * *HOTween Inspector:* now "completed but not killed" tweens are displayed as a separate group (while previously they appeared inside the running tweens)
+==== Bugfixes ====
+  * Fixed floating point imprecision bug when calculating total elapsed loops
+  * Fixed *path lockRotationAxis* bug
+  * Fixed bug where *incremental loops* would behave correctly only after two cycles, when set to infinite
+
 == v1.1.330 ==
 ==== New features ====
   * Added *HOTween.GetTweenersByTarget* method, that returns all the Tweeners (not Sequences, since Sequences have no target) whose target is the given one.
