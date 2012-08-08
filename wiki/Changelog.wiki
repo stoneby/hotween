@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.340 ==
+==== New features ====
+  * Now the overshoot of Back eases and the amplitude and period of Elastic eases can be modified when choosing the Ease TweenParm.
+
 == v1.1.335 ==
 ==== New features ====
   * Greatly optimized partial paths
