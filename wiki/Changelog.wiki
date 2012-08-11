@@ -1,6 +1,11 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.360 ==
+==== New features ====
+  * Added overload to OnComplete and ApplyCallbacks, which implements a *SendMessage* behaviour
+  * Low-level optimizations by Dmitriy Yukhanov
+
 == v1.1.340 ==
 ==== New features ====
   * Now the overshoot of Back eases and the amplitude and period of Elastic eases can be modified when choosing the Ease TweenParm.
