@@ -1,6 +1,10 @@
 #summary HOTween Visual Editor update history
 #labels Featured
 
+== v1.0.100 ==
+==== New Features ====
+  * Added *OnComplete options* to the tweens
+
 == v1.0.031 ==
 ==== Bugfixes ====
   * Fixed rare "cannot convert `Holoville.HOTween.Tweener' expression to type `Tweener'" error (in case other classes named "Tweener" - and not related to HOTween - were present in a project)
