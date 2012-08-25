@@ -1,6 +1,13 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.371 ==
+==== Optimizations ====
+  * Additional low-level optimizations by Dmitriy Yukhanov
+==== Bugfixes ====
+  * 0 durations tweens are now working also when inside Sequences
+  * Fixed bug with Complete method not working correctly when used on Quaternion properties with a Vector3 endValue
+
 == v1.1.360 ==
 ==== New features ====
   * Added overload to OnComplete and ApplyCallbacks, which implements a *SendMessage* behaviour
