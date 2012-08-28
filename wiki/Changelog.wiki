@@ -1,6 +1,13 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.400 ==
+==== New Features ====
+- Added *OnPluginOverwritten callback* to Tweeners
+==== Optimizations ====
+- Now tweens are updated in growing order, which leads to better behaviour of various things, and correct overwriting when 2 overwriting tweens start at the same exact time
+- Added more low-level optimizations based on Dmitriy's advice
+
 == v1.1.371 ==
 ==== Optimizations ====
   * Additional low-level optimizations by Dmitriy Yukhanov
