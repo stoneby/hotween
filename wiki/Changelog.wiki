@@ -1,6 +1,13 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.420 ==
+==== New Features ====
+  * Added HOTween.GetTweensByIntId method
+  * OnPluginOverwritten callback can now be used with ApplyCallback method
+==== Bugfixes ====
+  * Fixed bug when killing a tween during a callback different from OnComplete
+
 == v1.1.402 ==
 ==== New Features ====
   * Added *OnPluginOverwritten callback* to Tweeners
