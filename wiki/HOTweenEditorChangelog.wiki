@@ -1,6 +1,10 @@
 #summary HOTween Visual Editor update history
 #labels Featured
 
+== v1.0.102 ==
+==== Bugfixes ====
+  * Fixed conflicts that could derive from having NGUI installed
+
 == v1.0.100 ==
 ==== New Features ====
   * Added *OnComplete options* to the tweens
