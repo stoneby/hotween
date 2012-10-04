@@ -1,6 +1,18 @@
 #summary HOTween Visual Editor update history
 #labels Featured
 
+== v1.1.001 ==
+=== Install instructions ===
+*IMPORTANT* updating from a previous version requires that you:
+  # Import the new HOTweenEditor package as usual (a bunch of errors will appear in the console - just ignore them)
+  # Proceed to delete the following directories:
+    * Holoville/Editor
+    * Holoville/GUI
+  # Proceed to delete the following files:
+    * Holoville/HOTween Extensions/HOTweenManager/Core/HOTweenPanelMode (pay attention not to delete the file with the same name in the.../HOTweenManager/Editor/Core directory)
+==== New features ====
+  * Inspector and window interface is much more neat and functional, and occupies less space
+
 == v1.0.102 ==
 ==== Bugfixes ====
   * Fixed conflicts that could derive from having NGUI installed
