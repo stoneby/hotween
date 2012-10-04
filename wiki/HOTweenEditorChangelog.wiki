@@ -2,7 +2,7 @@
 #labels Featured
 
 == v1.1.001 ==
-=== Install instructions ===
+=== Upgrade instructions ===
 *IMPORTANT* updating from a previous version requires that you:
   # Import the new HOTweenEditor package as usual (a bunch of errors will appear in the console - just ignore them)
   # Proceed to delete the following directories:
