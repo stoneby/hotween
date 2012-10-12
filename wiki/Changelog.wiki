@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.430 ==
+==== New Features ====
+  * Added *AppendCallback* and *InsertCallback* methods to Sequences
+
 == v1.1.420 ==
 ==== New Features ====
   * Added HOTween.GetTweensByIntId method
