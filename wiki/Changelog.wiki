@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.500 ==
+==== New Features ====
+  * External plugins can now be created and used for tweens, by inheriting from Holoville.HOTween.Plugins.Core.ABSTweenPlugin
+
 == v1.1.430 ==
 ==== New Features ====
   * Added *AppendCallback* and *InsertCallback* methods to Sequences
