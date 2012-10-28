@@ -1,6 +1,10 @@
 #summary HOTween Visual Editor update history
 #labels Featured
 
+== v1.1.010 ==
+==== New Features ====
+  * Added Autokill option (next to Autoplay button)
+
 == v1.1.001 ==
 === Upgrade instructions ===
 *IMPORTANT* updating from a previous version requires that you:
