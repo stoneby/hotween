@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.600 ==
+==== New features ====
+  * Unity AnimationCurves can now be assigned to easing (instead than the regular ease curves)
+
 == v1.1.500 ==
 ==== New Features ====
   * External plugins can now be created and used for tweens, by inheriting from Holoville.HOTween.Plugins.Core.ABSTweenPlugin
