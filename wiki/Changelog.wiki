@@ -6,7 +6,7 @@
   * *Added straight/linear path movement*, to complement movement on curved paths. There's now an optional *PathType* parameter when calling a PlugVector3Path method, which allows to set the path as linear (while default is curved).
   * Optimized all path logics, so that tweening an object's localPosition while moving its parent will re-adapt the path correctly.
 ==== Bugfixes ====
-  * Fixed bug when calling *GetConstPointOnPath* from a Tweener.
+  * Fixed bug when calling *GetPointOnPath* from a Tweener.
 
 == v1.1.600 ==
 ==== New features ====
