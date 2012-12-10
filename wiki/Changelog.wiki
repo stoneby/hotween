@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.724 ==
+==== Bugfixes ====
+  * Fixed bug in linear path movement
+
 == v1.1.722 ==
 ==== New features ====
   * *Added straight/linear path movement*, to complement movement on curved paths. There's now an optional *PathType* parameter when calling a PlugVector3Path method, which allows to set the path as linear (while default is curved).
