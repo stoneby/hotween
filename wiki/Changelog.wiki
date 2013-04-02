@@ -1,6 +1,16 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.761 ==
+==== New features ====
+  * Added WaitForRewind coroutine
+  * Added SendMessage overload to OnStepComplete
+  * Added option to EnableOverwriteManager that disables overwrite warnings
+  * Added Clear method to Sequences, so they can be reused
+  * Error/warning lines are now reported correctly by Unity
+==== Bugfixes ====
+  * Fixed bug where mySequence.isEmpty always returned true
+
 == v1.1.724 ==
 ==== Bugfixes ====
   * Fixed bug in linear path movement
