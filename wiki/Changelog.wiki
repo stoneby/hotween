@@ -8,6 +8,7 @@
   * Added option to EnableOverwriteManager that disables overwrite warnings
   * Added Clear method to Sequences, so they can be reused
   * Error/warning lines are now reported correctly by Unity
+  * Added alpha version of HOTween.Punch/Shake
 ==== Bugfixes ====
   * Fixed bug where mySequence.isEmpty always returned true
 
