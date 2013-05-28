@@ -1,6 +1,12 @@
 #summary HOTween Visual Editor update history
 #labels Featured
 
+== v1.1.100 ==
+==== Optimizations ====
+  * Added fixes for chinese characters, optimizations, and new icons by Breno Azevedo
+==== Bugfixes ====
+  * Fixed a bug where the HOTweenComponent panel didn't work correctly when used with a prefab inside the project panel
+
 == v1.1.010 ==
 ==== New Features ====
   * Added Autokill option (next to Autoplay button)
