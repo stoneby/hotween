@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.780 ==
+==== Bugfixes ====
+  * Fixed bug where OnComplete callback wasn't called when forcing a tween to complete
+
 == v1.1.761 ==
 ==== New features ====
   * Added WaitForRewind coroutine
