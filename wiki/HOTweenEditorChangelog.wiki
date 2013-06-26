@@ -1,6 +1,10 @@
 #summary HOTween Visual Editor update history
 #labels Featured
 
+== v1.1.110 ==
+==== Bugfixes ====
+  * Fixed bug with Unity 4, which in some cases could crash Unity or the editor panel
+
 == v1.1.100 ==
 ==== Optimizations ====
   * Added fixes for chinese characters, optimizations, and new icons by Breno Azevedo
