@@ -1,6 +1,10 @@
 #summary HOTween Visual Editor update history
 #labels Featured
 
+== v1.1.120 ==
+==== Bugfixes ====
+  * Fixed bug where manager window generated errors and couldn't be drawn
+
 == v1.1.110 ==
 ==== Bugfixes ====
   * Fixed bug with Unity 4, which in some cases could crash Unity or the editor panel
