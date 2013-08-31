@@ -1,6 +1,10 @@
 #summary HOTween Visual Editor update history
 #labels Featured
 
+== v1.1.130 ==
+==== Bugfixes ====
+  * Fixed bug where Rects couldn't be targeted for tweening
+
 == v1.1.120 ==
 ==== Bugfixes ====
   * Fixed bug where manager window generated errors and couldn't be drawn
