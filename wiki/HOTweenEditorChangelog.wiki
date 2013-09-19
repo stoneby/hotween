@@ -1,6 +1,9 @@
 #summary HOTween Visual Editor update history
 #labels Featured
 
+== v1.1.201 ==
+  * Fixed incompatibility issues with Windows 8
+
 == v1.1.130 ==
 ==== Bugfixes ====
   * Fixed bug where Rects couldn't be targeted for tweening
