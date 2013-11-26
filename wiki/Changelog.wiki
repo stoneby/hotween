@@ -1,6 +1,15 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.860 ==
+==== New Features ====
+  * Various memory allocation optimizations
+  * Implemented Andrew Kingdom's mod (OnPluginUpdated callback, waypointIndex exposed in PlugVector3Path)
+  * Added string id and int id overload to IsTweening static method
+  * OnPlay is now called also when starting
+  * OnPause is now called also when tween is complete or rewinded
+  * Added KeepDisabled/KeepEnabled method parameters
+
 == v1.1.780 ==
 ==== Bugfixes ====
   * Fixed bug where OnComplete callback wasn't called when forcing a tween to complete
