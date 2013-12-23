@@ -1,6 +1,14 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.882 ==
+==== New Features ====
+  * Added PlugColor32 (automatically used in case of Color32 values)
+  * Added optional forcePlay parameter to all Reverse methods
+  * OverwriteManager now ignores paused tweens
+==== Bugfixes ====
+  * Fixed bug where GoToAndPlay didn't play if the tween was at the same position where it was sent via the goto
+
 == v1.1.860 ==
 ==== New Features ====
   * Various memory allocation optimizations
