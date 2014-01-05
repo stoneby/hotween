@@ -1,6 +1,12 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.890 ==
+==== Bugfixes ====
+  * Fixed flickers with first loop when using FixedUpdate
+  * OnComplete's TweenEvent now still reports the correct tween target instead than null
+  * Fixed relative zero-duration tweens not working correctly
+
 == v1.1.882 ==
 ==== New Features ====
   * Added PlugColor32 (automatically used in case of Color32 values)
