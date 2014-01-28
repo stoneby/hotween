@@ -1,6 +1,12 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.1.900 ==
+==== Changes ====
+  * Since Google Code doesn't allow file uploads anymore, the most recent downloads will only be available on HOTween's website
+==== Bugfixes ====
+  * Fixed bug where using PartialPath the tween would stop at the first waypoint
+
 == v1.1.890 ==
 ==== Bugfixes ====
   * Fixed flickers with first loop when using FixedUpdate
