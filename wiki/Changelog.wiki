@@ -1,6 +1,11 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.2.030 ==
+==== New Features ====
+  * Added overloads to HOTween.To/From that accept easeType and delay parameters inline
+  * Added GetAllTweens, GetAllPausedTweens and GetAllPlayingTweens static HOTween methods
+
 == v1.2.010 ==
 ==== New Features ====
   * Added PixelPerfect Method parameter
