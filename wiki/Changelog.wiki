@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.2.031 ==
+==== Bugfixes ====
+  * Fixed bug where GetAllTweens, GetAllPausedTweens and GetAllPlayingTweens methods threw an error when no tween existed
+
 == v1.2.030 ==
 ==== New Features ====
   * Added overloads to HOTween.To/From that accept easeType and delay parameters inline
