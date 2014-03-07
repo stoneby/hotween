@@ -1,6 +1,12 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.3.000 ==
+==== Changes ====
+  * HOTween and HOTweenMicro DLLs now have the same name (so serialization with the Visual Editor doesn't encounter errors), and Unity's Inspector will tell you which one you're using when you select the DLL in the Project Window
+==== New Features ====
+  * Made the runtime Inspector more readable
+
 == v1.2.031 ==
 ==== Bugfixes ====
   * Fixed bug where GetAllTweens, GetAllPausedTweens and GetAllPlayingTweens methods threw an error when no tween existed
