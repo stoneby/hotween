@@ -1,7 +1,14 @@
 #summary HOTween Visual Editor update history
 #labels Featured
 
+== v1.1.250 ==
+==== New Features ====
+  * Added AnimationCurve field as ease option
+==== Bugfixes ====
+  * Fixed issue where editor couldn't find all attached Components inside a prefab
+
 == v1.1.201 ==
+==== Bugfixes ====
   * Fixed incompatibility issues with Windows 8
 
 == v1.1.130 ==
