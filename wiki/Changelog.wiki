@@ -5,7 +5,7 @@
 ==== New Features ====
   * SpeedBased tweens now allow ease
 ==== Bugfixes ====
-  * Fixed ResetAndChangeParms not working correctly when OverewriteManager is enabled
+  * Fixed ResetAndChangeParms not working correctly when OverwriteManager is enabled
   * Fixed bug where playing an initially paused and delayed FROM tween, didn't immediately set the target position to its FROM value
   * Fixed bug with IsTweening and Sequences
 == v1.3.000 ==
