@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.3.055
+==== New Features ====
+  * No GC is allocated when tweening position or rotation of a Transform
+
 == v1.3.035 ==
 ==== New Features ====
   * SpeedBased tweens now allow ease
