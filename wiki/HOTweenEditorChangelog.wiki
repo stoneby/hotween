@@ -1,6 +1,10 @@
 #summary HOTween Visual Editor update history
 #labels Featured
 
+== v1.1.260 ==
+==== New Features ====
+  * Implemented "Restart Tweens By Id" option in OnComplete dropdown
+
 == v1.1.250 ==
 ==== New Features ====
   * Added AnimationCurve field as ease option
