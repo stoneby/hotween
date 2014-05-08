@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.3.060 ==
+==== New Features ====
+  * Now allows automatic tweening of uint values
+
 == v1.3.055 ==
 ==== New Features ====
   * No GC is allocated when tweening position or rotation of a Transform
