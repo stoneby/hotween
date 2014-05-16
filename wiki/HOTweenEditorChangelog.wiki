@@ -1,6 +1,9 @@
 #summary HOTween Visual Editor update history
 #labels Featured
 
+== v1.1.267 ==
+==== New Features ====
+  * Added buttons to sort tweens in various modes
 == v1.1.260 ==
 ==== New Features ====
   * Implemented "Restart Tweens By Id" option in OnComplete dropdown
