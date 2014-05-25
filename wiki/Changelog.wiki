@@ -1,6 +1,11 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.3.100 ==
+==== Bugfixes ====
+  * RestartIncremental now works correctly with Quaternions and Rewinds
+  * Fixed a bug caused by Unity, where TimeScaleIndependentUpdate tweens created in the first frame didn't work correctly with delays
+
 == v1.3.080 ==
 ==== New Features ====
   * TweenVar now supports AnimationCurves for ease
