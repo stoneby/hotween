@@ -1,6 +1,14 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.3.320 ==
+==== New Features ====
+  * Added Is2D Method Parameter to PlugVector3Path
+==== Bugfixes ====
+  * Fixed empty Sequences callback bug
+  * Fixes for PlugVector3Path in case of Z axis lock
+  * If a callback of a Sequence kills its own Sequence, it is correctly managed
+
 == v1.3.100 ==
 ==== Bugfixes ====
   * RestartIncremental now works correctly with Quaternions and Rewinds
