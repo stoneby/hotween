@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.3.326 ==
+==== Bugfixes ====
+  * Fixed Vector2/4 tweens being broken in previous version
+
 == v1.3.320 ==
 ==== New Features ====
   * Added Is2D Method Parameter to PlugVector3Path
