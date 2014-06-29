@@ -1,6 +1,10 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.3.327 ==
+==== Bugfixes ====
+  * Fixed Color tweens being broken in a previous update
+
 == v1.3.326 ==
 ==== Bugfixes ====
   * Fixed Vector2/4 tweens being broken in previous version
