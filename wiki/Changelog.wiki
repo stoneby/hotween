@@ -5,7 +5,7 @@
 ==== New Features ====
   * Added Tweener.GetPathLength method
 ==== Bugfixes ====
-  * WaitForCompletion now breaks also if the tween is destroyed
+  * WaitForCompletion and WaitForRewind now break also if the tween is destroyed
 
 == v1.3.327 ==
 ==== Bugfixes ====
