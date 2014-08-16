@@ -1,6 +1,12 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.3.355 ==
+==== New Features ====
+  * Added Tweener.GetPathLength method
+==== Bugfixes ====
+  * WaitForCompletion now breaks also if the tween is destroyed
+
 == v1.3.327 ==
 ==== Bugfixes ====
   * Fixed Color tweens being broken in a previous update
