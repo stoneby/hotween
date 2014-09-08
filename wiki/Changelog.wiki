@@ -1,6 +1,12 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.3.360 ==
+==== Changes ====
+  * HOTween.Kill(target) will now also kill all Sequences that have at least one nested tween with the given target
+==== Bugfixes ====
+  * Fixed empty Sequences causing errors with some operations and in HOTween Inspector
+
 == v1.3.355 ==
 ==== New Features ====
   * Added Tweener.GetPathLength method
