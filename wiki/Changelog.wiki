@@ -1,6 +1,11 @@
 #summary HOTween update history
 #labels Featured
 
+== v1.3.380 ==
+==== Bugfixes ====
+  * HOTween won't consider boolean values as valid animateable objects anymore
+  * Added more safe checks on some operations
+
 == v1.3.360 ==
 ==== Changes ====
   * HOTween.Kill(target) will now also kill all Sequences that have at least one nested tween with the given target
