@@ -1,6 +1,10 @@
 #summary HOTween Visual Editor update history
 #labels Featured
 
+== v1.1.280 ==
+==== Bugfixes ====
+  * Fixed issue where editor threw an error if visible and a SendMessage was set
+
 == v1.1.275 ==
 ==== New Features ====
   * Fixed obsolete warnings being thrown in more recent Unity versions
